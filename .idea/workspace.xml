@@ -31,12 +31,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1662042242" />
-                  </RecentBranch>
-                  <RecentBranch>
                     <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1662042241" />
+                    <option name="lastUsedInstant" value="1662043089" />
                   </RecentBranch>
                 </list>
               </option>
@@ -97,13 +93,26 @@
   <component name="RunManager">
     <configuration name="ParkingControlApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.api.parkingcontrol.ParkingControlApplication" />
-      <module name="parking-control" />
+      <module name="stop-park" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.api.parkingcontrol.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="stop-park" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="stop-park" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
