@@ -4,47 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ee3ca6d-79d7-4d66-9bd1-d17774f9e4e4" name="Changes" comment="Controle de estacionamento de condomínio">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/f/1f1763f358c257ea3515417352b82b0165647ad1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/32e074f71d16c1e88ac02aa83592ca6ad1fd98a8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4ea86291f7d4f2eb4c2f0f886528a188c099b52f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d837c4ed85ecaaf932c506e80ff5d7b9f3d590d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8cc9ab6ddf26a5a49cd4d9a5c5da58e5c9da2150" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b36477d8937b3fd9974167e0776071e6389e993b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/9/c964dc83568d9636696439df375c12620bca5a32" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb1a0063d3b89d752f93e3331da50bb4a4a8d853" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/api/parkingcontrol/ParkingControlApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/api/parkingcontrol/controllers/ParkingSpotController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/api/parkingcontrol/dtos/ParkingSpotDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/api/parkingcontrol/models/ParkingSpotModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/api/parkingcontrol/repositories/ParkingSpotRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/api/parkingcontrol/services/ParkingSpotService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/api/parkingcontrol/ParkingControlApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/api/parkingcontrol/ParkingControlApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/api/parkingcontrol/controllers/ParkingSpotController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/api/parkingcontrol/dtos/ParkingSpotDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/api/parkingcontrol/models/ParkingSpotModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/api/parkingcontrol/repositories/ParkingSpotRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/api/parkingcontrol/services/ParkingSpotService.class" afterDir="false" />
-    </list>
+    <list default="true" id="4ee3ca6d-79d7-4d66-9bd1-d17774f9e4e4" name="Changes" comment="Controle de estacionamento de condomínio" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +23,29 @@
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1662042242" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1662042241" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
